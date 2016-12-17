@@ -30,5 +30,5 @@ This client is an Ionic and Angular js application
 7. Finally, serve the client using the command below
    - ionic serve
    
-   NB: Ionic serves the app on  port 8100, e.g localhost:8100
+   Good to go: √ Running dev server:  http://localhost:8100
    
