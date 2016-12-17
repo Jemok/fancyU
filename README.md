@@ -13,8 +13,11 @@ This client is an Ionic and Angular js application
 
 ## Installation
 
-1. Clone this client repository using Git to your computer by running the command below in a C.L.I inside the the folder of the repository you cloned
+1. Clone this client repository using Git to your computer by running the command below in a C.L.I
    - git clone https://github.com/Jemok/fancyU.git
+   
+   # Run the commands below in a C.L.I inside the the folder of the repository you cloned
+   
 2. Install Cordova from npm, run the following command
    - npm install -g cordova
 3. Install Ionic from npm, run the following command
